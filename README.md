@@ -11,7 +11,7 @@ Before testing out the code.  Please `pip install -r requirements.txt` to get th
 
 Update `settings.py` with your Salesforce login information. Then the following command will perform the import with the demo data in `sample_event.json`.
 
-`python execute_integration`
+`python execute_integration.py`
 
 # Customizing this Integration
 
